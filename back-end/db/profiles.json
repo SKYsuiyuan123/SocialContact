@@ -1,0 +1,39 @@
+ {
+     "social": {
+         "wechat": "",
+         "QQ": ""
+     },
+     "skills": [
+         "HTML",
+         "JS"
+     ],
+     "_id": "5c2c3a400612b21a47bd03e5",
+     "user": {
+         "_id": "5c2b33f1e1db452747cc1372",
+         "email": "13011316070@163.com"
+     },
+     "handle": "xiaojun",
+     "company": "",
+     "website": "",
+     "location": "suzhou",
+     "status": "houduan",
+     "bio": "aixuexi",
+     "github": "",
+     "experience": [{
+         "current": true,
+         "_id": "5c2c3c7f941e1b1c0b070a66",
+         "title": "qianduan",
+         "company": "suzhoumeili",
+         "from": "2018-6-30"
+     }],
+     "education": [{
+         "current": false,
+         "_id": "5c2c4805bee1c723280a8193",
+         "school": "suzhoudaxue",
+         "degree": "shejishi",
+         "fieldofstudy": "aaa",
+         "from": "2013"
+     }],
+     "date": "2019-01-02T04:12:48.184Z",
+     "__v": 0
+ }

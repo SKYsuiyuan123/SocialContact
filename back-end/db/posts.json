@@ -1,0 +1,20 @@
+{
+    "_id": "5bcb09c93b106e209c2f1008",
+    "text": "aaaaaaaaaaaaaaa",
+    "name": "13011316078",
+    "user": "5bc9f96ee7f75615c886a689",
+    "likes": [{
+        "_id": "5c2cc04a00baad560c97c98d",
+        "user": "5c2c453a117ce3226de34f08"
+    }],
+    "comments": [{
+        "date": "2019-01-02T14:07:20.566Z",
+        "_id": "5c2cc598b0cace58f6799e06",
+        "text": "hahhahah",
+        "name": "",
+        "avatar": "",
+        "user": "5c2b33f1e1db452747cc1372"
+    }],
+    "date": "2018-10-20T10:56:09.160Z",
+    "__v": 8
+}
